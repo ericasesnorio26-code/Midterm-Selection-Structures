@@ -14,7 +14,7 @@ int main() {
         printf("Your grade is: C");
     }else if(score >= 60){
         printf("Your grade is: D");
-    }else if(score <= 59){
+    }else {
         printf("Your grade is: F");
     }
     
